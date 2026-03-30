@@ -1,0 +1,17 @@
+{
+  "title": "Crime and Punishment",
+  "shortTitle": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "translator": "Constance Garnett",
+  "year": 1866,
+  "source": "https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett",
+  "words": 204007,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/CrimeAndPunishment",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Crime_and_Punishment"
+  },
+  "blurb": "foo",
+  "blurb2": "bar"
+}
